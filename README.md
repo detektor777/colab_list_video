@@ -1,6 +1,6 @@
 # Upscale video (Real-ESRGAN)
 <img src="https://github.com/detektor777/colab_list/blob/main/image/ESRGAN.jpg" height="200" alt="ESRGAN">
-<a href="https://colab.research.google.com/github/detektor777/colab_list/blob/main/Real_ESRGAN_video.ipynb">
+<a href="https://colab.research.google.com/github/detektor777/colab_list/blob/main/real.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
 </a>
 
